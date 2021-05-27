@@ -1,0 +1,19 @@
+html,body{
+    margin: 0px;
+}
+
+body{
+    background-color: #ffffff;
+}
+.flex-container {
+    flex-direction: column;
+    display: flex;
+  }
+.flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+.imagem{
+    margin-bottom: 1%;
+}
